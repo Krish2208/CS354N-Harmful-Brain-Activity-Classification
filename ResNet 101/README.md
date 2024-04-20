@@ -15,6 +15,9 @@
 
 2. **Download Data (Optional):**
    - If you prefer to download the data locally, download it from the Kaggle competition [here](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data).
+   - If trained models are required, you can download them from the following links:
+     - [ResNet101 Model](https://www.kaggle.com/models/krishagrawal/resnet-101a-hms)
+     - [ResNet50 Model](https://www.kaggle.com/models/krishagrawal/resnet-50a-hms)
 
 3. **Access Notebooks:**
    - You have two options:
