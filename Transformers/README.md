@@ -4,7 +4,7 @@
    - Please log in to your Kaggle account. Use the following link to access the Kaggle notebook with pre-loaded dataset and code:
      [Kaggle Notebook](https://www.kaggle.com/code/gothos01/hms-hbac-project-transformers).
       Alternatively, the .ipynb file is provided (hms-hbac-project-transformers). Please upload on kaggle, and use the following inputs on Kaggle:
-     + [HMS HBAC Competition Dataset]https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
+     + [HMS HBAC Competition Dataset](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification)
      + [Brain EEG Spectrograms Dataset](https://www.kaggle.com/datasets/cdeotte/brain-eeg-spectrograms)
      + [Brain-Spectrograms Dataset](https://www.kaggle.com/datasets/cdeotte/brain-spectrograms)
      <br>
