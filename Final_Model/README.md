@@ -16,17 +16,18 @@
 2. **Download Data (Optional):**
    - If you prefer to download the data locally, download it from the following links:
      - [HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)
-     - [Brain-EEGs](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data)
-     - [EEG Spectrogram by label_id (UNIQUE)](https://www.kaggle.com/datasets/seanbearden/eeg-spectrogram-by-lead-id-unique)
      - [Kaggle-KL-Div](https://www.kaggle.com/datasets/cdeotte/kaggle-kl-div)
-   - If trained models are required, you can download them from the following link:
+   - If trained models are required, you can download them from the following links:
+     - [efficientnet-b1-ownspectrograms](https://www.kaggle.com/datasets/naomideenen/efficientnet-b1-ownspectrograms)
+     - [EfficientNetB Keras TF 2.13.0](https://www.kaggle.com/datasets/nartaa/efficientnetb-tf-keras)
+     - [Features+Head Starter Models](https://www.kaggle.com/datasets/nartaa/features-head-starter-models/versions/10)
      - [hms-resnet1d-gru-weights-v82](https://www.kaggle.com/datasets/konstantinboyko/hms-resnet1d-gru-weights-v82)
+   
 
 3. **Access Notebooks:**
    - You have two options:
      - Use the provided Kaggle Notebook links:
-       - Training Notebook: [https://www.kaggle.com/code/pvsekhar123/hms-resnet1d-gru-train-notebook](https://www.kaggle.com/code/pvsekhar123/hms-resnet1d-gru-train-notebook)
-       - Inference Notebook: [https://www.kaggle.com/code/pvsekhar123/hms-resnet1d-gru-inference-notebook](https://www.kaggle.com/code/pvsekhar123/hms-resnet1d-gru-inference-notebook)
+       - Inference Notebook: [https://www.kaggle.com/code/pvsekhar123/ensemble-model](https://www.kaggle.com/code/pvsekhar123/ensemble-model)
      - Alternatively, if you've downloaded the notebooks, proceed to the next step.
 
 4. **Open and Run Notebooks:**
@@ -45,7 +46,3 @@
    - Adjust parameters as necessary.
 
 By following these steps, you should be able to run the provided IPython Notebook files successfully.
-
-## Reference
-
-[Kaggle Notebook](https://www.kaggle.com/code/medali1992/hms-resnet1d-gru-train?scriptVersionId=163575181)
