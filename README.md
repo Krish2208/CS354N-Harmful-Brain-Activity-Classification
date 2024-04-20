@@ -50,5 +50,8 @@ This dataset contains spectrograms from Kaggle's HMS - Harmful Brain Activity Cl
 
 These alternate datasets offer opportunities for exploring EEG data and spectrograms, potentially providing additional insights or approaches for analyzing harmful brain activity.
 
+### Easy inference:
+Please use the following colab notebook for easy inference of trained models, using gradio. Please follow the instructions provided in the notebook to load up the pre-trained weights.<br>
+[Colab link](https://colab.research.google.com/drive/17GYdTW61Mea4zr5gaj5cifLhkdoBAd4M?usp=sharing)
 ## Acknowledgements
 We would like to express our gratitude to the following individuals: Prof. Aruna Tiwari (Course Coordinator of CS 354N), Teaching and Lab Assistants and to the organizers of the HMS Harmful Brain Activity Classification Kaggle competition for providing the dataset and an opportunity to work on this important problem.
